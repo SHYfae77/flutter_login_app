@@ -7,5 +7,6 @@
     
 # Screenshot
 
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](assets/images/screenshots/login_screen.png)
+
 
