@@ -1,16 +1,9 @@
-# login_ui_2
+# Fluter Login App - Mobile Programming 2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Grup Member
+  - Ahmad Anjani Luthfi  (232101213)
+  - Mughni Sidiq Anshori (232101257)
+  - Syifa Kanzul Arsyi   (232101217)
+    
+# Screenshot
+  ![Login UI Screenshot](screenshots/login_ui.png)
