@@ -6,4 +6,6 @@
   - Syifa Kanzul Arsyi   (232101217)
     
 # Screenshot
-  ![Login UI Screenshot](screenshots/login_screen.png)
+
+![Login Screen](screenshots/login_screen.png)
+
